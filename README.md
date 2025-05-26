@@ -77,9 +77,10 @@ A Power BI dashboard designed to visually analyze and compare the 2014 and 2024 
 
 ## 📸 Screenshot
 
-![Election Analysis Dashboard](./assets/dashboard_screenshot.png)
 
-> *(You can rename and upload your screenshot with the same name in an "assets" folder in your repo)*
+
+> ![Screenshot (462)](https://github.com/user-attachments/assets/af02fa07-aa9a-44c8-8393-192054d6eeee)
+
 
 ---
 
